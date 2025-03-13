@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Delius&family=Poetsen+One&display=swap');
 
+
 body {
-  background-image: url("https://cdn.mos.cms.futurecdn.net/HuGGeENt6kGyixe3hT9tnY.jpg");
+  background-image: url("https://lairofthelich.com/wp-content/uploads/2022/12/dungeon-concept1.jpg?w=1024");
   text-align: center;
   margin: auto;
    font-family: "Poetsen One", serif;
@@ -16,7 +17,5 @@ h1{
   background-size: 600px 400px;
   border-radius: 30px;
   border: 5px solid white;
+  cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='49' height='59' viewport='0 0 100 100' style='fill:black;font-size:29px;'><text y='50%'>❗</text></svg>") 16 0,auto;
 }
-
-
-
